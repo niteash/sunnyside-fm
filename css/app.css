@@ -47,6 +47,10 @@ body {
   margin-top: 10rem;
 }
 
+.title h2 {
+  letter-spacing: 8px;
+}
+
 .footer {
   background-color: hsl(168, 56%, 66%);
 }
@@ -56,6 +60,10 @@ div a {
   color: hsl(168, 34%, 41%);
   padding: 20px;
   font-family: "Barlow", sans-serif;
+}
+
+.four img {
+  height: 500px;
 }
 
 .footer-title {
@@ -118,6 +126,18 @@ nav {
   margin-left: 50%;
   position: absolute;
   margin-top: 60%;
+}
+
+.egg img {
+  width: 725px;
+}
+
+.berry img {
+  width: 750px;
+}
+
+.orange img {
+  height: 625px;
 }
 
 /*# sourceMappingURL=app.css.map */
