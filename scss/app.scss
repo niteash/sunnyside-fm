@@ -31,7 +31,51 @@ body{
     flex-wrap: nowrap;
     justify-content: center;
 }
+.pic-text{
+    position: absolute;
+    display: block;
+    margin: 16rem;
+    margin-top: 26rem;
+    font-weight: bold;
+    margin-left: 15rem;
+    color:hsl(168, 48%, 25%); 
 
+
+}
+
+.pic-para{
+    position: absolute;
+    width: 20rem !important;
+    display: block;
+    margin: 16rem;
+    margin-top: 30rem;
+    margin-left: 12rem;
+    font-family:'Barlow', sans-serif;
+    font-weight: 600;
+    color:hsl(168, 48%, 25%); 
+}
+
+.orange-text{
+position: absolute;
+display: block;
+margin: 16rem;
+margin-top: 26rem;
+font-weight: bold;
+margin-left: 15rem;
+color:hsl(168, 48%, 25%); 
+}
+
+.orange-para{
+    position: absolute;
+    width: 20rem !important;
+    display: block;
+    margin: 16rem;
+    margin-top: 30rem;
+    margin-left: 12rem;
+    font-family:'Barlow', sans-serif;
+    font-weight: 600;
+    color:hsl(168, 48%, 25%); 
+}
 .size{
     width: 80px;
     height: 80px;
@@ -133,8 +177,10 @@ nav{
 
 .berry img{
     width:750px;
+    position: absolute;
 }
 
 .orange img{
     height: 625px;
+    position: absolute;
 }
